@@ -1,0 +1,51 @@
+2015-10-21 13:13:59 [INFO] Starting minecraft server version 1.6.4
+2015-10-21 13:14:14 [INFO] Loading properties
+2015-10-21 13:14:14 [INFO] Default game type: SURVIVAL
+2015-10-21 13:14:14 [INFO] Generating keypair
+2015-10-21 13:14:15 [INFO] Starting Minecraft server on 192.168.1.100:25565
+2015-10-21 13:14:17 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-10-21 13:14:19 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2015-10-21 13:14:19 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2015-10-21 13:14:19 [INFO] Preparing level "world"
+2015-10-21 13:14:20 [INFO] Preparing start region for level 0
+2015-10-21 13:14:21 [INFO] Preparing spawn area: 4%
+2015-10-21 13:14:22 [INFO] Preparing spawn area: 14%
+2015-10-21 13:14:23 [INFO] Preparing spawn area: 25%
+2015-10-21 13:14:24 [INFO] Preparing spawn area: 38%
+2015-10-21 13:14:25 [INFO] Preparing spawn area: 53%
+2015-10-21 13:14:27 [INFO] Preparing spawn area: 54%
+2015-10-21 13:14:28 [INFO] Preparing spawn area: 58%
+2015-10-21 13:14:30 [INFO] Preparing spawn area: 62%
+2015-10-21 13:14:31 [INFO] Preparing spawn area: 78%
+2015-10-21 13:14:32 [INFO] Preparing spawn area: 96%
+2015-10-21 13:14:32 [INFO] Done (12.869s)! For help, type "help" or "?"
+2015-10-21 13:15:43 [INFO] Unknown command. Try /help for a list of commands
+2015-10-21 13:15:46 [INFO] Unknown command. Try /help for a list of commands
+2015-10-21 13:15:50 [INFO] Unknown command. Try /help for a list of commands
+2015-10-21 13:15:55 [INFO] Usage: /op <player>
+2015-10-21 13:15:59 [INFO] Unknown command. Try /help for a list of commands
+2015-10-21 13:16:00 [INFO] Unknown command. Try /help for a list of commands
+2015-10-21 13:16:07 [INFO] --- Showing help page 1 of 12 (/help <page>) ---
+2015-10-21 13:16:07 [INFO] /ban <name> [reason ...]
+2015-10-21 13:16:07 [INFO] /ban-ip <address|name> [reason ...]
+2015-10-21 13:16:07 [INFO] /banlist [ips|players]
+2015-10-21 13:16:07 [INFO] /buildcraft help
+2015-10-21 13:16:07 [INFO] /ccdebug help
+2015-10-21 13:16:07 [INFO] /clear <player> [item] [data]
+2015-10-21 13:16:07 [INFO] /cofh help
+2015-10-21 13:18:47 [SEVERE] Reached end of stream for /192.168.1.100
+2015-10-21 13:18:58 [INFO] Mr_Legacy005[/192.168.1.100:52119] logged in with entity id 6487 at (249.5, 69.0, 254.5)
+2015-10-21 13:18:58 [INFO] Mr_Legacy005 joined the game
+2015-10-21 13:19:19 [INFO] Opped Mr_Legacy005
+2015-10-21 13:20:13 [INFO] Stopping the server
+2015-10-21 13:20:13 [INFO] Stopping server
+2015-10-21 13:20:13 [INFO] Saving players
+2015-10-21 13:20:13 [INFO] Closing listening thread
+2015-10-21 13:20:13 [INFO] Mr_Legacy005 left the game
+2015-10-21 13:20:13 [INFO] Saving worlds
+2015-10-21 13:20:13 [INFO] Saving chunks for level 'world'/Overworld
+2015-10-21 13:20:13 [SEVERE] Reached end of stream for /192.168.1.100
+2015-10-21 13:20:13 [INFO] Saving chunks for level 'world'/Nether
+2015-10-21 13:20:13 [INFO] Stopping server
+2015-10-21 13:20:13 [INFO] Saving players
+2015-10-21 13:20:13 [INFO] Saving worlds
